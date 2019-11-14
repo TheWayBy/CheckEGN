@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGN", "EGN\EGN.csproj", "{211B411E-A4D7-43CD-8BF4-BC6DE5A1E00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGN.Test", "EGN.Test\EGN.Test.csproj", "{EFC8BABC-851F-42CC-BA80-B0CD1E18B0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211B411E-A4D7-43CD-8BF4-BC6DE5A1E00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211B411E-A4D7-43CD-8BF4-BC6DE5A1E00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211B411E-A4D7-43CD-8BF4-BC6DE5A1E00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211B411E-A4D7-43CD-8BF4-BC6DE5A1E00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC8BABC-851F-42CC-BA80-B0CD1E18B0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC8BABC-851F-42CC-BA80-B0CD1E18B0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC8BABC-851F-42CC-BA80-B0CD1E18B0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC8BABC-851F-42CC-BA80-B0CD1E18B0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F6B778-8935-414D-8728-C89EA330E156}
+	EndGlobalSection
+EndGlobal
